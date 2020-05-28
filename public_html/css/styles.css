@@ -27,6 +27,10 @@ body {
     font-size: 30px;
     background-color: #cccccc;
 }
+/**image**/
+ig{
+    margin: 5px 5px 5px 5px;
+}
 
 /** HEADER **/
 #header-nav {
